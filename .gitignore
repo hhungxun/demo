@@ -1,1 +1,11 @@
-/main.bbl
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdfsync
+*.run.xml
+*.synctex.gz
